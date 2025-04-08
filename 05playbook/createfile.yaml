@@ -2,4 +2,4 @@
   become: true
   tasks:
   - name: Create file named vilas.txt
-    file: path=/tmp/vilas.txt state=touch
+    file: path=/tmp/selmi.txt state=touch
